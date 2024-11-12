@@ -1,10 +1,10 @@
-# Credit @LazyDeveloper.
+# Credit @AJ_KING07.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
+# Born to make history @AJ_KING07 !
 # Thank you LazyDeveloper for helping us in this Journey
-# 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# 🥰  Thank you for giving me credit @AJ_KING07  🥰
+# for any error please contact me -> @AJ_KING07 
+# rip paid developers 🤣 - >> buy paid source code while @AJ_KING07 is here 😍😍
 import logging
 from pyrogram.errors import InputUserDeactivated, UserNotParticipant, FloodWait, UserIsBlocked, PeerIdInvalid
 from info import *
