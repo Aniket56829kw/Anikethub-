@@ -1,12 +1,12 @@
 import logging
 import logging.config
-# Credit @LazyDeveloper.
+# Credit @AJ_KING07.
 # Please Don't remove credit.
-# Born to make history @LazyDeveloper !
+# Born to make history @AJ_KING07 !
 # Thank you LazyDeveloper for helping us in this Journey
 # 🥰  Thank you for giving me credit @LazyDeveloperr  🥰
-# for any error please contact me -> telegram@LazyDeveloperr or insta @LazyDeveloperr 
-# rip paid developers 🤣 - >> No need to buy paid source code while @LazyDeveloperr is here 😍😍
+# for any error please contact me -> telegram@AJ_KING07 or insta  
+# rip paid developers 🤣 - >> buy paid source code while @AJ_KING07 is here 😍😍
 # Get logging configurations
 import sys
 import glob
